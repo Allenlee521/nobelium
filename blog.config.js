@@ -1,6 +1,6 @@
 const BLOG = {
   title: 'photo',
-  author: 'lanxinyi',
+  author: '岚心一',
   email: 'li1943658913@gmail.com',
   link: 'https://lanxinyi.icu',
   description: 'This gonna be an awesome website.',
